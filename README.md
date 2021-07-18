@@ -3,7 +3,7 @@
 Available on telegram as [puk puk](http://t.me/puk_puk_musicbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/401a556c981110e0f8ef4.jpg">
+  <img src="https://telegra.ph/file/66b946249fe0ab82c8815.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
