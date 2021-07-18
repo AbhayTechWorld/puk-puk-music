@@ -1,6 +1,6 @@
 <h1 align="centre"> 🎵 puk puk music 🎵</h1>
 
-Available on telegram as [puk puk1](http://t.me/puk_puk_musicbot)
+Available on telegram as [puk puk](http://t.me/puk_puk_musicbot)
 
 <p align="center">
   <img src="https://telegra.ph/file/401a556c981110e0f8ef4.jpg">
