@@ -60,5 +60,5 @@ You can set Channel Music Play like this:
 
 <h3 align="center">💫String Session💫</h3>
 
- [![Run on Repl.it](https://replit.com/@akshitbisht/pyrogam-session-string-by-akshit#main.py)
+  [![Run on Repl.it](https://repl.it/badge/github/kaal0408/KAAlUserbot&theme=midnight-purple)](https://replit.com/@akshitbisht/pyrogam-session-string-by-akshit#main.py)
 
